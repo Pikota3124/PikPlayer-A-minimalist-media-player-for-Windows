@@ -84,6 +84,10 @@ Thumbnails are generated using a dedicated DLL, so the first time it will take a
 
 ---
 
+
+## Disclosure
+
+This project was entirely made with AI with Claude + Chatgpt
 This is what an audio file without cover art looks like while playing.
 
 <img width="3839" height="2159" alt="Screenshot 2026-10-06 175731" src="https://github.com/user-attachments/assets/34e8ad60-e9f2-485c-9c28-bfc2e9116d2f" />
